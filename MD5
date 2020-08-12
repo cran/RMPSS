@@ -1,0 +1,9 @@
+b5a310e83737b5c8c58b01ef05f45565 *DESCRIPTION
+8930fc6b54f8125c07b7268eddea6599 *NAMESPACE
+83fe5bb5c2cc9703808af7fbabe657ed *R/RMPSS-package.R
+ad0457c07598fca89a4abb11a6c48168 *R/RcppExports.R
+12075de07f188148b15c073b3541119c *R/imports.R
+142951fc79411a8bfbf303d26bbe70bd *man/RMPSS-package.Rd
+9189637d3aeba4f9ab668fc606c3beea *man/RMPSolveS.Rd
+d95727ac40b351dfcd68097f5459c45f *src/RMPSolveS.cpp
+0c81cffbaeb8b2ee0184132292f744cc *src/RcppExports.cpp
